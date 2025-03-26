@@ -1,3 +1,13 @@
-PeerUp is a social platform that connects students based on the skills and experience they can teach others, and the areas in which they want to improve. Students will be able to create their own profiles with photos, tags, and categories where they can indicate the subjects they excel in (such as programming, video editing, academic writing, time management), as well as the areas where they seek help.
+# PeerUp Project
 
-In addition, our system will include a kind of "subsystem" for managing study summaries. Students will be able to upload summaries categorized by different study topics, which other students can use, share with friends, comment on, and rate (similar to likes and comments on Facebook) based on their quality. For example, users with high-quality summaries could receive a "Summary King" badge on their profile.
+פרויקט הגשה הכולל עיצוב מסכים, תיעוד ופיתוח ראשוני.
+
+---
+
+## תיעוד
+
+- Word קובץ עם תיעוד מסכים: נמצא בתיקייה `docs`.
+
+## מסכים ב-Figma
+
+[לחץ כאן לצפייה בפרויקט בפיגמה](https://www.figma.com/design/D7vgNxEUxR8c6G7oswF3pl/%F0%9F%93%81-PeerUp---All-Wireframes?node-id=0-1&t=IfmISj0l0vrxlHGG-1)
